@@ -7,7 +7,7 @@ draft: false
 menu:
   main:
     parent: "More"
-    name: "Service"
+    name: "Classes"
     weight: 1
 
 ########################### about service #############################
