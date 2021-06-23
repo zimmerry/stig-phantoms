@@ -7,7 +7,7 @@ menu:
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/temp.png"
   bg_overlay: true
   title: "Special Tactics Instructional Group"
   content: "Delivering special tactics training, leadership experience, and comraderie to the cadets of AFROTC Detachment 685"
