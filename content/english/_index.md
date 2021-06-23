@@ -12,7 +12,7 @@ banner:
   title: "Special Tactics Instructional Group"
   content: "Delivering special tactics training, leadership experience, and comraderie to the cadets of AFROTC Detachment 685"
   button:
-    enable: true
+    enable: false
     label: "Discover Our Project"
     link: "project"
 
