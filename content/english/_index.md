@@ -10,7 +10,7 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Special Tactics Instructional Group"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  content: "Delivering Special Tactics training, leadership experience, and comraderie to the cadets of AFROTC Detachment 685"
   button:
     enable: true
     label: "Discover Our Project"
