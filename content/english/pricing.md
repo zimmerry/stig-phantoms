@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Our Pricing"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
@@ -57,4 +57,4 @@ pricing:
 cta:
   enable : true
   # call to action content comes from "_index.md"
----
+--- -->
