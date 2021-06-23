@@ -10,7 +10,7 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Special Tactics Instructional Group"
-  content: "Delivering Special Tactics training, leadership experience, and comraderie to the cadets of AFROTC Detachment 685"
+  content: "Delivering special tactics training, leadership experience, and comraderie to the cadets of AFROTC Detachment 685"
   button:
     enable: true
     label: "Discover Our Project"
@@ -20,8 +20,8 @@ banner:
 about:
   enable: true
   title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  description: "We are an Air Force ROTC student organization founded with the goal of providing learning and leadership experiences beyond the scope of the standard AFROTC training curriculum, in order to create better leaders."
+  content: "We offer a variety of classes to the cadets at Oregon State University Det 685, including Physical Training, Rucking, Land Navigation, Medical, Basic Wilderness Survival, and Military Operations in Urban Terrain."
   image: "images/wrapper-img.png"
 
 
