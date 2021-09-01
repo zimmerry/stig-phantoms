@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    name: "Home"
+    name: "STIG Phantoms"
     weight: 1
 
 ############################### Banner ##############################

@@ -5,7 +5,7 @@ subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, rep
 lastmod: 2021-04-01T00:00:00
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
-draft: false
+draft: true
 menu:
   main:
     parent: "More"
