@@ -54,7 +54,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [params.contact]
 # Address block
 phone = "0124857985320"
-email = "demo@email.com"
+email = "stig-phantoms@gmail.com"
 # location = """
 # **Themefisher**  
 # North Main Street  
@@ -105,29 +105,33 @@ username = ""
 
 
 ################################# Social Media ################################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
 [[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.instagram.com/stig_phantoms/"
 
 
 ################################# Plugins #####################################
