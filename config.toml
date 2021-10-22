@@ -55,16 +55,16 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 # Address block
 phone = "0124857985320"
 email = "demo@email.com"
-location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
-"""
+# location = """
+# **Themefisher**  
+# North Main Street  
+# Brooklyn, New South Wales  
+# Australia
+# """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 [params.contact.form]
-enable = true
+enable = false
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
 use_netlify = true
 # Form action
