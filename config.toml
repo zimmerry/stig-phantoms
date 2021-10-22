@@ -53,8 +53,8 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "0124857985320"
-email = "stig-phantoms@gmail.com"
+phone = "541-714-3607"
+email = "stigphantoms@gmail.com"
 # location = """
 # **Themefisher**  
 # North Main Street  
