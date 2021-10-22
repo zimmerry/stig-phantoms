@@ -1,5 +1,8 @@
 name: deploy
-on: [push]
+on:
+  push:
+    branches:
+      - main
 jobs:
   setup-ssh:
     runs-on: ubuntu-latest
