@@ -200,8 +200,8 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 # weight = 1
 
 # [[languages.en.menu.footer]]
-# name = "Project"
-# URL = "project"
+# name = "Gallery"
+# URL = "gallery"
 # weight = 2
 
 # [[languages.en.menu.footer]]

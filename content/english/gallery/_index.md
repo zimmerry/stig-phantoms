@@ -1,10 +1,10 @@
-<!-- ---
-title: "Our Project"
+---
+title: "Photo Gallery"
 description: "this is meta description"
 draft: false
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
-    name: "Project"
+    name: "Gallery"
     weight: 3
---- -->
+---
