@@ -3,7 +3,7 @@ title: "STIG Ruck"
 description: "9 mile ruck at Bald Hall"
 draft: false
 image : "images/portfolio/rucking1.jpg"
-bg_image: "images/feature-bg.jpg"
+# bg_image: "images/feature-bg.jpg"
 category: [ "Rucking" ]
 information:
   - label : "Class"

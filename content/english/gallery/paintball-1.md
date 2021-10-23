@@ -3,7 +3,7 @@ title: "STIG Paintball"
 description: "Small Unit Tactics at Albany Outdoor Paintball"
 draft: false
 image : "images/portfolio/paintball1.jpg"
-bg_image: "images/feature-bg.jpg"
+# bg_image: "images/feature-bg.jpg"
 category: [ "Paintball", "Small Unit Tactics" ]
 information:
   - label : "Class"
