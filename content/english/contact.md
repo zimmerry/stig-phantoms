@@ -1,9 +1,9 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
+title: "Contact Us"
+description: "Feel free to reach out about anything!"
 bg_image: "images/feature-bg.jpg"
 layout: "contact"
-draft: true
+draft: false
 menu:
   main:
     name: "Contact"

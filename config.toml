@@ -53,18 +53,18 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "0124857985320"
-email = "demo@email.com"
-location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
-"""
+phone = "541-714-3607"
+email = "stigphantoms@gmail.com"
+# location = """
+# **Themefisher**  
+# North Main Street  
+# Brooklyn, New South Wales  
+# Australia
+# """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 [params.contact.form]
-enable = true
+enable = false
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
 use_netlify = true
 # Form action
@@ -105,29 +105,33 @@ username = ""
 
 
 ################################# Social Media ################################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
 [[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.instagram.com/stig_phantoms/"
 
 
 ################################# Plugins #####################################
@@ -196,8 +200,8 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 # weight = 1
 
 # [[languages.en.menu.footer]]
-# name = "Project"
-# URL = "project"
+# name = "Gallery"
+# URL = "gallery"
 # weight = 2
 
 # [[languages.en.menu.footer]]
