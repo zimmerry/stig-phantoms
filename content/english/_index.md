@@ -20,7 +20,7 @@ banner:
 about:
   enable: true
   title: "About Us"
-  description: "We are an Air Force ROTC student organization founded with the goal of providing learning and leadership experiences beyond the scope of the standard AFROTC training curriculum, in order to create better leaders."
+  description: "We are an Air Force ROTC student organization at Oregon State University, founded with the goal of providing learning and leadership experiences beyond the scope of the standard AFROTC training curriculum, in order to create better leaders."
   content: "We offer a variety of classes to the cadets at Oregon State University Det 685, including Physical Training, Rucking, Land Navigation, Medical, Basic Wilderness Survival, and Military Operations in Urban Terrain."
   image: "images/stig.png"
 
@@ -51,15 +51,15 @@ service:
 
 
 # ############################ call to action ###########################
-# cta:
-#   enable: true
-#   bg_image: "images/call-to-action-bg.jpg"
-#   title: "We design delightful digital experiences."
-#   content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
-#   button:
-#     enable: true
-#     label: "Tell Us Your Story"
-#     link: "contact"
+cta:
+  enable: false
+  bg_image: "images/call-to-action-bg.jpg"
+  title: "We design delightful digital experiences."
+  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable: true
+    label: "Tell Us Your Story"
+    link: "contact"
 
 ############################# Funfacts ###############################
 funfacts:
