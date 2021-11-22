@@ -74,10 +74,10 @@ service:
       name: Medical
       content: "Cadets learn the fundamental skills necessary for Tactical Combat Casualty Care and First Aid."
 
-    # empty placeholder
-    - icon: images/placeholder.png
-      name:
-      content:
+    # # empty placeholder
+    # - icon: images/placeholder.png
+    #   name:
+    #   content:
 
     # service item loop
     - icon : images/stig.png #ionicon pack v2 : https://ionicons.com/v2/
@@ -88,6 +88,11 @@ service:
     - icon : images/stig.png #ionicon pack v2 : https://ionicons.com/v2/
       name: MOUT
       content: "Cadets learn and practice fundamental skills for performing Military Operations in Urban Terrain."
+
+    # service item loop
+    - icon : images/stig.png #ionicon pack v2 : https://ionicons.com/v2/
+      name: Firearms training
+      content: "Cadets learn and practice fundamental skills to safely handle and operate a firearm."
 
     # # service item loop
     # - icon : images/stig.png #ionicon pack v2 : https://ionicons.com/v2/
